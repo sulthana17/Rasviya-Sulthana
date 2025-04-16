@@ -51,7 +51,7 @@ Bon Secours Arts & Science College for Women, Bharathidasan University
 - Used joins, subqueries, and logic to detect patterns in financial data  
 - Applied SQL concepts in a practical data investigation scenario  
 
-*(Replace the link with your actual GitHub repo for the project)*
+*( link )*
 
 ---
 
