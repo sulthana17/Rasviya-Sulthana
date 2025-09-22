@@ -1,86 +1,80 @@
-# Rasviya Sulthana N  
-**Aspiring Financial Analyst | Excel • Financial Modeling • SQL • Power BI**  
-_Tamil Nadu, India_  
+# Rasviya Sulthana N
+**Aspiring Business Intelligence & Analytics Professional | Excel • Power BI • SQL • SAP**  
+📍 Tamil Nadu, India | Open to Relocate to UAE
 
 ---
 
-## Executive Summary  
-Commerce graduate with a tech-forward mindset, blending strong academic excellence with hands-on expertise in financial data analysis, SQL, and Excel modeling. Certified by Harvard, SEBI, NSE, and Goldman Sachs, I bring a rare mix of financial domain knowledge and data skills—from fraud detection using SQL to forecasting and KPI reporting in Excel. My proactive leadership as a student council VP and public-speaking experience as an MC reflect strong business communication and stakeholder engagement capabilities. I aim to contribute financial insights and data-driven decisions in a fast-paced finance or banking environment.
+## About Me
+I am a **Business Intelligence & Analytics professional** with expertise in **Excel, Power BI, SQL, and SAP Cloud ERP**, blending academic excellence with hands-on experience in **financial analysis, KPI reporting, and data-driven decision-making**.
+
+I have delivered projects such as:  
+- **Product Performance Analysis Dashboard** – Automated profitability and KPI reporting in Excel using Power Pivot & Power Query.  
+- **Fraud Detection System (SQL)** – Designed database and queries to detect anomalies and assign risk scores in financial transactions.
+
+I combine **technical skills with leadership experience** (Student Council VP, MC, NSS volunteer) to communicate insights effectively and drive data-informed decisions.
 
 ---
 
-## Education  
-**Bachelor of Commerce with Computer Applications**  
-Bon Secours Arts & Science College for Women, Bharathidasan University | **2021 – 2024**  
-- **CGPA**: 8.93 / 10  
-- **Honors**: Secured 8th Rank in the University  
-- **Relevant Courses**: Financial Accounting, Business Statistics, AP/AR, Marketing, Database Management, Corporate Finance  
+## Education
+**MBA – General Management (Online)** | Anna University, Chennai | Dec 2024 – Present  
+**B.Com – Commerce with Computer Applications** | Bharathidasan University, Tiruchirappalli | Jul 2021 – Jul 2024  
+- **CGPA:** 8.93 / 10 | University Rank 8/2,112  
+- Leadership & Activities: Student Council VP, NSS Volunteer, Master of Ceremonies (MC)
 
 ---
 
-## Key Certifications  
-### Finance & Market Fundamentals  
-- **Investor Certification Examination** – SEBI  
-- **Capital Market & Mutual Fund Certifications** – NSE  
-- **Introduction to FinTech** – CFI  
-
-### Data & Financial Analytics  
+## Key Certifications
+- **Power BI Essential Training** – LinkedIn Learning  
 - **CS50’s Introduction to Databases with SQL** – Harvard  
 - **SQL for Finance Professionals** – LinkedIn Learning  
-- **Excel Skills for Business: Job Simulation** – Goldman Sachs (Forage)  
 - **Business Analysis with Excel** – Simplilearn  
-- **Power BI Essential Training** – LinkedIn Learning  
-
-### Business & Project Skills  
-- **Agile Requirements Foundations** – LinkedIn Learning  
-- **Project Management Foundations** – LinkedIn Learning  
+- **Exploring SAP Analytics Cloud & SAP Cloud ERP** – SAP
 
 ---
 
-## Technical Skills  
-- **Financial Tools**: Microsoft Excel (Advanced), Tally ERP, Financial Modeling, Accounts Payable/Receivable  
-- **Analytics & BI**: Power BI (Dashboards, Visuals), Data Cleaning, KPI Tracking  
-- **Databases**: SQL (PostgreSQL, SQLite3)  
-- **Finance Knowledge**: Accounts Payable/Receivable (Academic), Corporate Finance  
-- **Other**: Data Storytelling, Scenario Analysis, Forecasting  
+## Technical Skills
+- **BI & Analytics:** Power BI (Dashboards, KPI Reporting, Data Storytelling), Excel (Advanced, Power Pivot, Power Query), SAP Analytics Cloud  
+- **Databases:** SQL (PostgreSQL, SQLite3), Database Design & Queries  
+- **Finance Knowledge:** Corporate Finance, Financial Modeling, Accounts Payable/Receivable  
+- **Other:** Scenario Analysis, Forecasting, Data Visualization
 
 ---
 
-## Projects  
-### [Harvard CS50 – Fraud Detection Using SQL]
-- Wrote advanced SQL queries to identify irregularities in transactional datasets.  
-- Simulated audit workflows and ensured database integrity using relational joins.  
-- Published on GitHub as a demonstration of SQL for financial risk analysis.  
+## Projects
+### **Product Performance Analysis Dashboard**
+**Tools:** Excel, Power Pivot, Power Query, PivotTables, Slicers  
+- Built an **interactive financial dashboard** to track revenue, cost, profit, and product-level KPIs.  
+- Automated **KPI calculations and reporting**, reducing manual effort and improving decision-making speed.  
+- Designed **stakeholder-ready visuals** for clear data-driven insights.
+
+### **Fraud Detection System (SQL – Harvard CS50)**
+**Tools:** SQLite3, SQL, ERD, Database Design  
+- Designed a **relational database** to monitor transactions and accounts for fraud detection.  
+- Developed **SQL queries, views, and triggers** to flag anomalies and assign risk scores.  
+- Documented **database schema and workflows**, supporting structured reporting and actionable insights.
 
 ---
 
-## Internship  
-**Virtual Intern - IIDE**  
-Nov 2023 – Dec 2023 | India · Remote  
-- Acquired experience working with SEO, blogging, and Facebook Ads.  
-- Built blog content for increased visibility.  
-- **Skills**: Digital Marketing | SEO | Blogging | Facebook Ads Manager | Communication  
+## Internship Experience
+**Virtual Intern – IIDE** | Nov 2023 – Dec 2023 | Remote  
+- Worked on SEO, Quora campaigns, and social media, applying **data validation and reporting** to improve performance.  
+- Led a team project for campaign content, demonstrating **coordination, analysis, and presentation skills**.
 
 ---
 
-## Leadership & Extracurriculars  
-### **Vice President – Student Council**  
-Bon Secours Arts & Science College for Women | Jan 2022 – Jan 2023  
-- Led student initiatives, managed event budgets, and coordinated campus-wide programs.  
-- Represented student voices in academic and administrative decision-making.  
+## Leadership & Volunteering
+**Vice President – Student Council** | 2022 – 2023  
+- Led events, managed budgets, and coordinated cross-functional teams.
 
-### **Student Volunteer – National Service Scheme (NSS)**  
-Jun 2021 – Jun 2023  
-- Participated in community outreach projects focusing on health and education.  
+**Master of Ceremonies – College Events** | 2022 – 2024  
+- Hosted seminars and programs, strengthening public speaking and event coordination.
 
-### **Master of Ceremonies – College Events**  
-2022 – 2024  
-- Hosted seminars and events, enhancing public speaking and coordination skills.  
+**Student Volunteer – National Service Scheme (NSS)** | 2021 – 2023  
+- Contributed to social initiatives in education and community welfare, enhancing teamwork and project execution.
 
 ---
 
-## Connect With Me  
-Feel free to explore my projects or connect with me for collaboration and opportunities!
- 
- Email: [rasviyasulthana.n@gmail.com](mailto:rasviyasulthana.n@gmail.com)  
- LinkedIn: [https://linkedin.com/in/rasviya-sulthana](https://linkedin.com/in/rasviya-sulthana)
+## Connect With Me
+📧 [rasviyasulthana.n@gmail.com](mailto:rasviyasulthana.n@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/rasviya-sulthana)
+
